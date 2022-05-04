@@ -55,7 +55,7 @@ Ran linpeas.sh
 	/usr/games/s3cr3t/.th1s_m3ss4ag3_15_f0r_gw3nd0l1n3_0nly!
 
 "Your password is awful, Gwendoline. 
-It should be at least 60 characters long! Not just MniVCQVhQHUNI
+It should be at least 60 characters long! Not just *MniVCQVhQHUNI*
 Honestly!
 
 Yours sincerely
