@@ -3,7 +3,8 @@
 ## Scanning Started
 Apache version 2.4.10(Outdated)
   => Nmap:
-## Openports: 22 = ssh
+## Openports: 
+	   22 = ssh
 	   80 = http
 	   21 = ftp
 ## Directory Busting:
